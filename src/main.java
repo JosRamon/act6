@@ -4,7 +4,7 @@ public class main {
     public static void main (String[]args) {
         Scanner entrada = new Scanner (System.in);
         double numero1=0, numero2=0, numero3=0, numero4=0, numero5=0;
-        System.out.println("<<<<<<<<<<Bienvenido a la Calculadora básica>>>>>>>>>>");
+        System.out.println("<<<<<<<<<<Promedio>>>>>>>>>>");
         System.out.println("Ingresa un numero: ");
         numero1=entrada.nextDouble();
         System.out.println("Ingresa el segundo numero: ");
